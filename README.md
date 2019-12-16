@@ -33,6 +33,21 @@
 
 </details>
 
+### 📃 Tools
+<details>
+<summary>View</summary>
+
+#### Git
+- [Git Emoji :)](tools/git-emoji.md)
+
+#### VSCode
+- [Test](javascript/test.md)
+
+#### Bash
+- [Test](javascript/test.md)
+
+</details>
+
 
 
 
