@@ -1,4 +1,4 @@
-[![JS IS AWESOME](logo.jpg) width="200" height="400" ](https://github.com/anupjha/js-is-awesome/)
+[![JS IS AWESOME](logo.jpg](https://github.com/anupjha/js-is-awesome/)
 > 📚 Cheatsheets for JavaScript and friends...
 
 ## 📚 Contents
