@@ -29,8 +29,8 @@
 - [Pure Component](reactjs/pure-component.md)
 - [Method Binding](reactjs/method-binding.md)
 - [Prop Types](reactjs/prop-types.md)
-- [Communication between Components](reactjs/pure-component.md)
-- [React Fragment](reactjs/pure-component.md)
+- [Communication between Components](reactjs/communication-between-components.md)
+- [React Fragment](reactjs/react-fragment.md)
 - [React Memo](reactjs/react-memo.md)
 
 #### React Hooks
@@ -58,7 +58,7 @@
 - [VSCode Settings](tools/vscode-settings.json)
 - [VSCode Shortcuts](tools/vscode-shortcuts.md)
 #### Bash
-- [Test](javascript/test.md)
+- [Bash Reference](tools/bash-reference.md)
 
 #### VIM
 - [VIM Commands](tools/vim-commands.md)
